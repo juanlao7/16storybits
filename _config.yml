@@ -1,1 +1,18 @@
+title: 16 story bits
+description: A one person video game studio run by <span class="nowrap">Juan Lao Tebar</span>
+logo: logo.svg
+
+google_analytics: UA-174955070-1
 theme: jekyll-theme-minimal
+baseurl: /16storybits
+paginate: 5
+plugins:
+- jekyll-paginate
+
+company:
+  name: Juan Lao Tebar
+  email: <span class="nowrap highlighted">16storybits`.and.more`{:.antispam}@gmail.com</span>
+  url: https://twitter.com/16_story_bits
+
+github:
+  is_project_page: false
