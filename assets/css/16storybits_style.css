@@ -63,6 +63,27 @@ body {
     line-height: 1.5;
 }
 
+#pagination {
+    padding-top: 2em;
+    margin-top: 2em;
+    border-top: 1px solid #000;
+}
+
+#pagination .current {
+    background: #000;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#pagination a {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    text-decoration: none;
+    color: #000 !important;
+}
+
 @media print, screen and (max-width: 720px) {
     #navigation a {
         display: inline-block;

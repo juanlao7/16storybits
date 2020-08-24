@@ -29,6 +29,8 @@ title: Games
 <div id="i_told_you">
     <h2>I told you</h2>
 
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/AvuPuqPxw-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     <p>
         “What if we just pack and leave?”<br/>
         “Let's wait a little, this will surely come to nothing.”
@@ -41,8 +43,6 @@ title: Games
     <p>
         <strong><em>I told you</em></strong> is a tactical action adventure set in a southern European country that just suffered a coup d'état. Using stealth, interacting with the environment and making a good use of the few resources and homemade weapons you have at your hand, you must fight the forces of a regime that took away the only thing you had left.
     </p>
-
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/AvuPuqPxw-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <ul>
         <li><a href="https://store.steampowered.com/app/1388890/I_told_you/" target="_blank" rel="noopener"><strong>I told you</strong> on Steam</a></li>

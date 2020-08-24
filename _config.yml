@@ -4,7 +4,8 @@ logo: logo.svg
 
 google_analytics: UA-174955070-1
 theme: jekyll-theme-minimal
-#baseurl: /16storybits
+baseurl: /
+baseurlagain: /
 paginate: 5
 plugins:
 - jekyll-paginate
