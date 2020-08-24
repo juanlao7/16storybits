@@ -23,6 +23,7 @@ title: Games
 
     #i_told_you a {
         color: #fff;
+        text-decoration: underline;
     }
 </style>
 
@@ -45,6 +46,7 @@ title: Games
     </p>
 
     <ul>
+        <li><a href="https://www.indiedb.com/games/i-told-you/presskit" target="_blank" rel="noopener">Press kit</a></li>
         <li><a href="https://store.steampowered.com/app/1388890/I_told_you/" target="_blank" rel="noopener"><strong>I told you</strong> on Steam</a></li>
         <li><a href="https://16-story-bits.itch.io/i-told-you" target="_blank" rel="noopener"><strong>I told you</strong> on itch.io</a></li>
         <li><a href="https://gamejolt.com/games/i-told-you/525050" target="_blank" rel="noopener"><strong>I told you</strong> on GameJolt</a></li>
