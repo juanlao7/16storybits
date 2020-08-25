@@ -9,6 +9,7 @@ baseurlagain: /
 paginate: 5
 plugins:
 - jekyll-paginate
+- jekyll-feed
 
 company:
   name: Juan Lao Tebar
