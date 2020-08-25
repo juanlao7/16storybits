@@ -6,7 +6,7 @@ title: Games
 
 <style type="text/css">
     #i_told_you {
-        background: url('assets/games/i_told_you_background.png') center center repeat-y;
+        background: url('i-told-you/background.png') center center repeat-y;
         background-color: #000;
         color: #ccc;
         font-family:'Roboto Mono', Lato, LatoExtended, sans-serif;
