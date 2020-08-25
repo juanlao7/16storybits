@@ -10,7 +10,7 @@ title: Games
         background-color: #000;
         color: #ccc;
         font-family:'Roboto Mono', Lato, LatoExtended, sans-serif;
-        padding: 1em;
+        padding: 1em 0;
         border-radius: 1em;
     }
 
@@ -18,6 +18,14 @@ title: Games
         color: #ff8000;
         font-size: 2em;
         text-align: center;
+        margin: 1em;
+    }
+
+    #i_told_you p {
+        margin: 1em;
+    }
+
+    #i_told_you p.center {
         margin: 1em 0;
     }
 
@@ -44,6 +52,8 @@ title: Games
     <p>
         <strong><em>I told you</em></strong> is a tactical action adventure set in a southern European country that just suffered a coup d'état. Using stealth, interacting with the environment and making a good use of the few resources and homemade weapons you have at your hand, you must fight the forces of a regime that took away the only thing you had left.
     </p>
+
+    <p class="center"><iframe src="https://store.steampowered.com/widget/1391290/?t=A%20tactical%20action%20adventure%20in%20which%20you%20will%20have%20to%20use%20stealth%20and%20the%20few%20resources%20at%20your%20hand%20to%20face%20the%20forces%20of%20a%20regime%20that%20took%20away%20the%20only%20thing%20you%20had%20left." frameborder="0" width="500" height="190"></iframe></p>
 
     <ul>
         <li><a href="https://www.indiedb.com/games/i-told-you/presskit" target="_blank" rel="noopener">Press kit</a></li>
