@@ -1,10 +1,5 @@
 ---
 layout: default
 ---
-<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-
-<p class="author">
-    <span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
-</p>
-
-<div class="content">{{ content }}</div>
+{% assign post = page %}
+{% include showpost.html %}

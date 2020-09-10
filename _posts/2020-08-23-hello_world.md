@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello world"
+tags: general
 ---
 
 ![Header image](assets/posts/2020-08-23-hello_world/header.jpg)

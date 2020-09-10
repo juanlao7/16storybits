@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h3 class="pageTitle">Posts tagged with #{{ page.tag }}</h3>
+
+{% for post in site.posts %}
+    {% if post.tags contains page.tag %}
+        {% include showpost.html %}
+    {% endif %}
+{% endfor %}
