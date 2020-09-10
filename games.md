@@ -38,7 +38,7 @@ title: Games
 <div id="i_told_you">
     <h2>I told you</h2>
 
-    <iframe title="Trailer" width="100%" height="315" src="https://youtu.be/HLj1ZHla-h0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe title="Trailer" width="100%" height="315" src="https://www.youtube.com/embed/HLj1ZHla-h0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <p>
         “What if we just pack and leave?”<br/>
