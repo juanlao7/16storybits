@@ -16,5 +16,10 @@ company:
   email: <span class="nowrap highlighted">16storybits`.and.more`{:.antispam}@gmail.com</span>
   url: https://twitter.com/16_story_bits
 
+collections:
+  tag:
+    output: true
+    permalink: tag/:path/
+
 github:
   is_project_page: false
