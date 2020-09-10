@@ -56,7 +56,7 @@ title: Games
     <p class="center"><iframe src="https://store.steampowered.com/widget/1391290/?t=A%20tactical%20action%20adventure%20in%20which%20you%20will%20have%20to%20use%20stealth%20and%20the%20few%20resources%20at%20your%20hand%20to%20face%20the%20forces%20of%20a%20regime%20that%20took%20away%20the%20only%20thing%20you%20had%20left." frameborder="0" width="500" height="190"></iframe></p>
 
     <ul>
-        <li><a href="tag/itoldyou/">All related posts</a></li>
+        <li><a href="tag/itoldyou">All related posts</a></li>
         <li><a href="https://www.indiedb.com/games/i-told-you/presskit" target="_blank" rel="noopener">Press kit</a></li>
         <li><a href="https://store.steampowered.com/app/1388890/I_told_you/" target="_blank" rel="noopener"><strong>I told you</strong> on Steam</a></li>
         <li><a href="https://16-story-bits.itch.io/i-told-you" target="_blank" rel="noopener"><strong>I told you</strong> on itch.io</a></li>

@@ -11,6 +11,6 @@
 <div class="tags">
     {% for tag in post.tags %}
         {% assign tag_slug = tag | slugify: 'raw' %}
-        <a href="{{ 'tag/' | append: tag_slug | append: '/' }}" rel="tag">#{{ tag }}</a>
+        <a href="{{ 'tag/' | append: tag_slug }}" rel="tag">#{{ tag }}</a>
     {% endfor %}
 </div>
