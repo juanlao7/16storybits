@@ -12,4 +12,4 @@ A 30-minute prelaunch demo of ***I told you*** is already available [on Steam](h
 
 A Kickstarter campaign will soon be launched to fund the development of the full game.
 
-If you are one of the first 300 backers, you will get the **full game for only 10€**. Follow [the project on Kickstarter](https://www.kickstarter.com/projects/juanlao/i-told-you-a-new-tactical-action-adventure){:target="_blank" rel="noopener"} or fill in [this form](https://forms.gle/zbjGttcM9AU4ZFbH8){:target="_blank" rel="noopener"} to get early access to the campaign.
+If you are one of the first 300 backers, you will get the **full game for only €10**. Follow [the project on Kickstarter](https://www.kickstarter.com/projects/juanlao/i-told-you-a-new-tactical-action-adventure){:target="_blank" rel="noopener"} or fill in [this form](https://forms.gle/zbjGttcM9AU4ZFbH8){:target="_blank" rel="noopener"} to get early access to the campaign.
