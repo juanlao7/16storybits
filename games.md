@@ -74,5 +74,6 @@ title: Games
         <li><a href="https://16-story-bits.itch.io/i-told-you" target="_blank" rel="noopener"><strong>I told you</strong> on itch.io</a></li>
         <li><a href="https://gamejolt.com/games/i-told-you/525050" target="_blank" rel="noopener"><strong>I told you</strong> on GameJolt</a></li>
         <li><a href="https://www.indiedb.com/games/i-told-you" target="_blank" rel="noopener"><strong>I told you</strong> on IndieDB</a></li>
+        <li><a href="https://www.youtube.com/watch?v=pGeFbCtrFlU" target="_blank" rel="noopener">Complete walkthrough gameplay video</a></li>
     </ul>
 </div>
