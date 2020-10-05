@@ -38,6 +38,10 @@ title: Games
 <div id="i_told_you">
     <h2>I told you</h2>
 
+    <p>
+        Status: <a href="2020/09/17/i_told_you_demo_released.html">in development</a>
+    </p>
+
     <iframe title="Trailer" width="100%" height="315" src="https://www.youtube.com/embed/HLj1ZHla-h0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <p>
@@ -53,7 +57,15 @@ title: Games
         <strong><em>I told you</em></strong> is a tactical action adventure set in a southern European country that just suffered a coup d'état. Using stealth, interacting with the environment and making a good use of the few resources and homemade weapons you have at your hand, you must fight the forces of a regime that took away the only thing you had left.
     </p>
 
+    <p>
+        Available for Windows, Linux, macOS and SteamOS.
+    </p>
+
     <p class="center"><iframe src="https://store.steampowered.com/widget/1391290/?t=A%20tactical%20action%20adventure%20in%20which%20you%20will%20have%20to%20use%20stealth%20and%20the%20few%20resources%20at%20your%20hand%20to%20face%20the%20forces%20of%20a%20regime%20that%20took%20away%20the%20only%20thing%20you%20had%20left." frameborder="0" width="500" height="190"></iframe></p>
+    
+    <p>
+        Dear macOS users: please, follow <a href="i-told-you/macOS/instructions.html">these instructions</a>.
+    </p>
 
     <ul>
         <li><a href="tag/itoldyou">All related posts</a></li>

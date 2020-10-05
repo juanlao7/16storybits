@@ -16,7 +16,7 @@ Click on "Cancel" when you see this dialog.
 
 ![macOS warning message](i-told-you/macOS/1.png)
 
-Right-click the icon of the application and select "Open".
+Right-click on the icon of the application and select "Open".
 
 ![Click on "Security & Privacy"](i-told-you/macOS/2.png)
 
