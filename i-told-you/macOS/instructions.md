@@ -10,7 +10,7 @@ macOS will prevent you from running this package, because it is not signed and n
 
 ![macOS warning message](i-told-you/macOS/1.png)
 
-If [the Kickstarter campaign](https://rebrand.ly/itoldyou-kickstarter-not-ready){:target="_blank" rel="noopener"} for funding the development of ***I told you*** reaches its goal, I will buy a Mac and properly sign, notarize and test the full game.
+If [the Kickstarter campaign](https://rebrand.ly/itoldyou-kickstarter-not-ready){:target="_blank" rel="noopener"} for funding the development of <span class="nowrap">***I told you***</span> reaches its goal, I will buy a Mac and properly sign, notarize and test the full game.
 
 Meanwhile, in order to run this prelaunch demo, please follow these steps:
 
