@@ -6,7 +6,7 @@ tags: itoldyou announcement
 
 <p><iframe title="Trailer" width="100%" height="315" src="https://www.youtube.com/embed/HLj1ZHla-h0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-A 30-minute prelaunch demo of ***I told you*** is already available [on Steam](https://store.steampowered.com/app/1388890/I_told_you/){:target="_blank" rel="noopener"} for Windows, Linux, macOS and SteamOS.
+A prelaunch demo of ***I told you*** is already available [on Steam](https://store.steampowered.com/app/1388890/I_told_you/){:target="_blank" rel="noopener"} for Windows, Linux, macOS and SteamOS.
 
 macOS users, please, follow [these instructions](i-told-you/macOS/instructions.html).
 
