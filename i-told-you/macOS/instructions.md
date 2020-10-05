@@ -8,20 +8,18 @@ This *beta* package is available on the following platforms:
 
 macOS will prevent you from running this package, because it is not signed and notarized.
 
-![macOS warning message](i-told-you/macOS/1.png)
-
 If [the Kickstarter campaign](https://rebrand.ly/itoldyou-kickstarter-not-ready){:target="_blank" rel="noopener"} for funding the development of <span class="nowrap">***I told you***</span> reaches its goal, I will buy a Mac and properly sign, notarize and test the full game.
 
 Meanwhile, in order to run this prelaunch demo, please follow these steps:
 
-Open *System Preferences* and click on "Security & Privacy".
+Click on "Cancel" when you see this dialog.
+
+![macOS warning message](i-told-you/macOS/1.png)
+
+Right-click the icon of the application and select "Open".
 
 ![Click on "Security & Privacy"](i-told-you/macOS/2.png)
 
-Click on "Open Anyway".
-
-![Click on "Open Anyway"](i-told-you/macOS/3.png)
-
 Click on "Open".
 
-![Click on "Open"](i-told-you/macOS/4.png)
+![Click on "Open Anyway"](i-told-you/macOS/3.png)
