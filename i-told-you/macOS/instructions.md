@@ -10,7 +10,7 @@ macOS will prevent you from running this package, because it is not signed and n
 
 If [the Kickstarter campaign](https://rebrand.ly/itoldyou-kickstarter-not-ready){:target="_blank" rel="noopener"} for funding the development of <span class="nowrap">***I told you***</span> reaches its goal, I will buy a Mac and properly sign, notarize and test the full game.
 
-Meanwhile, in order to run this prelaunch demo, please follow these steps:
+Meanwhile, in order to run this demo, please follow these steps:
 
 Click on "Cancel" when you see this dialog.
 
