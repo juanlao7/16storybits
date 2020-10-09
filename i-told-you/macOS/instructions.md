@@ -1,6 +1,6 @@
 # I told you [DEMO] on macOS
 
-This *beta* package is available on the following platforms:
+This *alpha* package is available on the following platforms:
 
 * [itch.io](https://16-story-bits.itch.io/i-told-you){:target="_blank" rel="noopener"}
 * [GameJolt](https://gamejolt.com/games/i-told-you/525050){:target="_blank" rel="noopener"}
