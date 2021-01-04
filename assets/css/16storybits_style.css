@@ -147,3 +147,13 @@ h3.pageTitle {
         margin: 0 1em;
     }
 }
+
+@media print, screen and (max-width: 960px) {
+    .steamWidget {
+        width: 100%
+    }
+
+    section {
+        width: auto
+    }
+}

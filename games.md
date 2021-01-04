@@ -10,13 +10,14 @@ title: Games
         background-color: #000;
         color: #ccc;
         font-family:'Roboto Mono', Lato, LatoExtended, sans-serif;
-        padding: 1em 0;
+        padding: 1em;
         border-radius: 0.5em;
     }
 
     #i_told_you .video {
-        width: 500px;
         border: 1px solid #888;
+        box-sizing: border-box;
+        padding: 2px;
     }
 
     #i_told_you h2 {
@@ -24,14 +25,6 @@ title: Games
         font-size: 2em;
         text-align: center;
         margin: 1em;
-    }
-
-    #i_told_you p {
-        margin: 1em;
-    }
-
-    #i_told_you p.center {
-        margin: 1em 0;
     }
 
     #i_told_you a {
